@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Data Analysis and SQL querying. Basic ASP.NET or Front-end UI design.**
 
-- 📫 How to reach me **humeyracoban1837@gmail.com **
+- 📫 How to reach me humeyracoban1837@gmail.com 
 
 - 📄 Know about my experiences [www.linkedin.com/in/rukiye-hümeyra-çoban-16352133a](www.linkedin.com/in/rukiye-hümeyra-çoban-16352133a)
 
