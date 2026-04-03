@@ -9,17 +9,14 @@
 
 ## 💖 About Me
 
-- 🔭 I’m currently working on **Developing a Library Automation System using ASP.NET and MSSQL, focusing on practical data management skills.**
+- 🎓 **Mathematics student** with a strong passion for **Data Science** and software development.
 
-- 🌱 I’m currently learning **SQL (Advanced Data Queries), Python (Data Analysis Libraries), and Machine Learning Fundamentals.**
+- 🌱 I’m currently focusing on **improving my coding skills and exploring the world of data.**
 
-- 👯 I’m looking to collaborate on **Open-source projects requiring Data Analysis and Front-end/UI design for data presentation.**
-
-- 💬 Ask me about **Data Analysis and SQL querying. Basic ASP.NET or Front-end UI design.**
+- 🚀 I’m dedicated to **learning, growing, and building a solid foundation in the tech world.**
 
 - 📫 How to reach me humeyracoban1837@gmail.com 
 
-- 📄 Know about my experiences [www.linkedin.com/in/rukiye-hümeyra-çoban-16352133a](www.linkedin.com/in/rukiye-hümeyra-çoban-16352133a)
 
 ---
 
